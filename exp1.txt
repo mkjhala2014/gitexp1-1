@@ -1,5 +1,4 @@
-
-exp1 main
+exp1
 
 
 
